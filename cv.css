@@ -1,0 +1,78 @@
+.page{
+	width : 780px;
+	margin : auto;
+	font-size : 14px;
+	font-family : 'Source sans Pro',Calibri, Tahoma, sans-serif;
+}
+.infophoto{
+	height : 190px;
+}
+.info{
+	float : left;
+}
+.photo{
+	float : right;
+}
+.section{
+	margin-bottom : 70px;
+}
+.sec-gauche{
+	float : left;
+}
+.sec-droite{
+		margin-left : 150px;
+}
+strong{
+	font-size : 14px;
+}
+.section{
+	margin-bottom : 70px;
+	text-align : justify;
+}
+h2{
+	font-size : 20px;
+	color : #00AA00;
+	text-transform : uppercase;
+	border-bottom : 3px solid #00AA00;
+}
+.sec-gauche{
+	float : left;
+	font-weight : bold;
+	font-size : 14px;
+}
+.duree{
+	font-weight : normal;
+	font-style : italic;
+	font-size : 14px;
+}
+.sec-droite{
+		margin-left : 150px;
+}
+.titre{
+	font-weight : bold;
+	font-size : 16px;
+}
+#format-gauche p{
+	margin-bottom : 30px;
+}
+.sec-droite{
+	margin-left: 230px;
+	margin-top: 30px;
+}
+#exp-gauche p{
+	margin-top: 70px;
+}
+body{
+	background-color : #CCCCCC;
+}
+.page{
+	width : 780px;
+	margin : auto;
+	font-size : 14px;
+	font-family : 'Source sans Pro', Calibri, Tahoma, sans-serif;
+	padding : 40px;
+	/*border : 5px solid #00AA00;
+	border-radius : 10px;*/
+	box-shadow : 2px 4px 3px black;
+	background-color : #FFFFFF;
+}
